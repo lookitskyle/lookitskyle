@@ -3,7 +3,7 @@ header_feature_image: /uploads/log.jpg
 title: About Me
 subtitle: ""
 permalink: /about/
-date: 2021-01-26T15:21:00.000Z
+date: 2021-01-26T15:23:39.712Z
 layout: page
 published: true
 tags: null
