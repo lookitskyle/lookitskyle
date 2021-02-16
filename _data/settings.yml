@@ -2,11 +2,11 @@ title: Look! It's Kyle with a Blog!
 description: A collection of cocktail recipes.
 footer_text: Copyright 2021 | Kyle Garrett
 header_feature_image: ../uploads/sitebanner.jpg
-header_text: lookitskyle with Cocktails
+header_text: lookitskyle
 header_text_color: "#ffffff"
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
-gridlayout: false
-fixednavbar: false
+logo: ../uploads/memeoji.jpg
+favicon: ../uploads/memeoji.jpg
+gridlayout: true
+fixednavbar: true
 upzoom: true
