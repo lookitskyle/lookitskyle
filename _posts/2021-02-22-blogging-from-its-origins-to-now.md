@@ -2,6 +2,7 @@
 layout: post
 title: "Blogging: From Its Origins to Now"
 date: 2021-02-22T19:03:33.962Z
+header_feature_image: ../uploads/andrew-neel-cckf4tshauw-unsplash.jpg
 title_color: "#ffffff"
 comments: true
 tags:
@@ -9,7 +10,7 @@ tags:
 ---
 Blogs sprang into existence in 1994, now in 2021, there are over 600 million blogs on the internet. That’s around half of the websites that exist! But where did blogging begin and what does blogging look like now?
 
-![](../uploads/andrew-neel-cckf4tshauw-unsplash.jpg)
+![](../uploads/lukas-blazek-gnvurwjskay-unsplash.jpg)
 
 It’s no surprise that blogging has erupted into such a major phenomenon; it enables you to share and connect with people across the globe, after all. The first blog is generally credited to a university undergraduate, but his blog was very different to the blogs that you and me peruse today. Whilst we are likely to use content management systems such as [wordpress.com](http://wordpress.com), these systems were not available then, with the first resources for bloggers only emerging in the latter half of the 90s. 
 
