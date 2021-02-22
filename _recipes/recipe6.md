@@ -15,20 +15,14 @@ Fun fact: Kamikaze translates to divine wind in Japanese.
 
 ## Ingredients
 
-30ml vodka
-
-30ml triple sec
-
-Juice of 1 lime
+* 30ml vodka
+* 30ml triple sec
+* Juice of 1 lime
 
 ## Method
 
-Add all the ingredients and some ice to a shaker. 
-
-Shake and strain into your glass and enjoy!
-
-
+1. Add all the ingredients and some ice to a shaker. 
+2. Shake and strain into your glass and enjoy!
 
 Serves: 1
-
 Preparation time: Less than 5 minutes
