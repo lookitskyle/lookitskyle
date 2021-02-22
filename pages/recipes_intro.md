@@ -2,15 +2,11 @@
 title: My Recipes
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
-show: false
+show: true
 layout: recipeshome
 ---
-This will be the home page for your recipes.
+Welcome! Here you can find a cocktail recipe for each of the seven continents! 
 
-Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Let your tastebuds travel and enjoy delicious cocktails from the comfort of your own home!
 
-Add the cover image here.
-
-[![Tomatoes](../uploads/tomatoes.jpg "Tomatoes")](/allrecipes)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[](/allrecipes)
