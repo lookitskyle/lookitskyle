@@ -10,28 +10,20 @@ The origin of the mojito is credited to Havana, Cuba. This refreshing cocktail i
 
 ## Ingredients
 
-Juice of 1 lime
-
-1 tsp granulated sugar
-
-Small handful of mint leaves, plus extra for garnish
-
-60ml white rum
-
-Soda water, to taste
-
-Ice
+* Juice of 1 lime
+* 1 tsp granulated sugar
+* Small handful of mint leaves, plus extra for garnish
+* 60ml white rum
+* Soda water, to taste
+* Ice
 
 ## Method
 
-In a cocktail shaker, muddle the mint leaves. Add the sugar and muddle again.
-
-Add your rum and some ice and shake the shaker for around 10 seconds.
-
-Add the lime juice and soda water and stir.
-
-Pour into your glass and enjoy!
+1. In a cocktail shaker, muddle the mint leaves. 
+2. Add the sugar and muddle again.
+3. Add your rum and some ice and shake the shaker for around 10 seconds.
+4. Add the lime juice and soda water and stir.
+5. Pour into your glass and enjoy!
 
 Serves: 1
-
-Preperation time: Around 5 minutes
+Preparation time: 5 minutes
