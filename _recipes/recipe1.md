@@ -12,8 +12,6 @@ Whilst Hemmingway opted to use Champagne, this isn't in everyone's budget, so I'
 
 Fun Fact: The cocktail shares a name with Hemmingway’s 1932 book about Spanish bullfighting.
 
-![Placeholder](../uploads/placeholder1.jpg)
-
 ## Ingredients
 
 * 45ml Absinthe
@@ -21,7 +19,8 @@ Fun Fact: The cocktail shares a name with Hemmingway’s 1932 book about Spanish
 
 ## Method
 
-Pour the absinthe into a champagne flute, then fill the rest of the flute with Prosecco.
+1. Pour the absinthe into a champagne flute, then fill the rest of the flute with Prosecco.
 
-* Serves: 1
-* Preparation time: 1 minute
+Serves: 1
+
+Preparation time: 1 minute
