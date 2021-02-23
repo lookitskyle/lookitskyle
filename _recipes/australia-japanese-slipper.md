@@ -8,18 +8,16 @@ This cocktail was invented in Melbourne in 1984. This drink is perfect if you ar
 
 ## Ingredients
 
-30ml lemon juice
-
-30ml midori
-
-30ml triple sec
-
-1 maraschino cherry
+* 30ml lemon juice
+* 30ml midori
+* 30ml triple sec
+* 1 maraschino cherry
 
 ## Method
 
-Place a single maraschino cherry into your cocktail glass.
+1. Place a single maraschino cherry into your cocktail glass.
+2. Place all of the ingredients into a shaker and add ice.
+3. Shake well and strain into your glass. Enjoy!
 
-Place all of the ingredients into a shaker and add ice.
-
-Shake well and strain into your glass. Enjoy!
+Serves: 1
+Preparation time: 2 minutes
