@@ -10,26 +10,19 @@ The caipiroska is a variant of the Brazilian caipirinha that is made with vodka 
 
 ## Ingredients
 
-60ml vodka
-
-1/2 lime, cut in half
-
-2 tsp of brown sugar
-
-50g strawberries, sliced
-
-Crushed ice
+* 60ml vodka
+* 1/2 lime, cut in half
+* 2 tsp of brown sugar
+* 50g strawberries, sliced
+* Crushed ice
 
 ## Method
 
-In your glass, muddle the lime and the brown sugar.
+1. In your glass, muddle the lime and the brown sugar.
+2. Add the strawberries and continue to muddle the mixture.
+3. Add enough crushed ice to fill the glass.
+4. Top with the vodka and enjoy!
 
-Add the strawberries and continue to muddle the mixture.
 
-Add enough crushed ice to fill the glass.
-
-Top with the vodka and enjoy!
-
-Serves: 1
-
-Preperation time: 5 minutes
+   Serves: 1
+   Preparation time: 5 minutes
