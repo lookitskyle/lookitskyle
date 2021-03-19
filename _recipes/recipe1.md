@@ -12,6 +12,8 @@ Whilst Hemmingway opted to use Champagne, this isn't in everyone's budget, so I'
 
 Fun Fact: The cocktail shares a name with Hemmingway’s 1932 book about Spanish bullfighting.
 
+![Champagne flute with rose petals inside and around.](../uploads/ray-reyes-tumli7it518-unsplash.jpg)
+
 ## Ingredients
 
 * 45ml Absinthe
