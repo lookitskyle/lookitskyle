@@ -10,6 +10,8 @@ The dawa cocktail hails from 1980s Nairobi, with The Carnivore restaurant claimi
 
 Fun fact: The dawa cocktail literally translates to the medicine cocktail! Not that it has any real medicinal uses!
 
+![](../uploads/ambitious-creative-co-rick-barrett-uyf3tal_kxw-unsplash.jpg)
+
 ## Ingredients
 
 * 1 lime
