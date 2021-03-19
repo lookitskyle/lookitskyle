@@ -6,6 +6,8 @@ layout: recipe
 ---
 This cocktail was invented in Melbourne in 1984. This drink is perfect if you are looking for something light on the alcohol but packed full of flavour! This is a fun, fruity, and quick to make cocktail!
 
+![Picture of a Japanese Slipper cocktail. Green cocktail, garnished with a lime wheel.](../uploads/tamanna-rumee-310gktayhio-unsplash.jpg)
+
 ## Ingredients
 
 * 30ml lemon juice
