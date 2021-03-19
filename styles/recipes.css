@@ -1,84 +1,81 @@
-/* CSS for recipes */
-
-html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  background: #fff;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
-  margin: 30px;
+background-color:rgba(130, 208, 232, 0.66);
+font-family: verdana, arial, helvetica, sans-serif;
+  }
+
+h1 {
+color:rgb(0, 0, 0);
+font-family: fantasy;
+text-transform: uppercase;
+text-align: center;
 }
 
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
+.everything {
+width:50%;
+margin-left:auto;
+margin-right:auto;
+max-width:800px;
+background:white;
+padding:10px;
 }
 
 img {
-  max-width: 100%;
+width:75%;
+max-width:800px;
+margin-top: 20px;
+margin-left: auto;
+margin-right: auto;
+display:block;
 }
 
-blockquote {
+h2 {
+  font-family: helvetica mono, andale mono, mono;
+  font-size 15px;
+  text-align: center;
+  border-style: dashed;
+      border-width: 2px;
+      border-left-width: auto;
+      border-right-width: auto;
+      border-color: rgb(14, 82, 153);
+      display:inline;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
-.caption {
+.menu ul {
   display: block;
-}
-
-table {
-}
-
-td,
-th {
-}
-
-p,
-ol,
-ul {
-  line-height: 1.5;
-  margin-bottom: 1em;
-}
-
-hr {
-  border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  border-bottom: 1px solid #fff;
-  margin: 1em 0;
-}
-
-a {
-  color: #337ab7;
-  text-decoration: none;
-}
-
-/* for a menu for all recipes */
-ul.allrecipes {
-  list-style: none;
-}
-
-.menu {
-  display: block;
-  border: 1px solid gray;
   width: 15%;
-  font-size: 60%;
-  padding: 10px;
-  margin: 20px 0;
+  font-size: 12px;
+  border: 3px solid black;
+  border-left-width: auto;
+  border-right-width: auto;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-left:0;
+  position: fixed;
+  top:0;
+  left:0;
+}
+
+@media screen and (max-width:605px) {
+.everything {
+  width:100%;
+}
+.menu ul {
+  margin-top:0;
+  margin-left:0;
+}
+p:first-child {
+  margin-left: 10rem;
+}
+
+h2 {
+  padding-left: 8rem;
+  border: none;
+}
+
+img {
+  padding-left: 8rem;
+}
+
 }
