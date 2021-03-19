@@ -10,6 +10,8 @@ Antarctica is mainly populated by research scientists. The continent has no indi
 
 This cocktail pays homage to the wintery conditions that Antarctica experiences all year round. It’s simply impossible to look at this cocktail without being reminded of snow and ice!
 
+![Blended frostbite martini. Blue cocktail in a martini glass, garnished with a lemon wheel.](../uploads/sorrawis-chongcharoen-w97ue8eycaw-unsplash.jpg)
+
 ## Ingredients
 
 * 120ml coconut cream
