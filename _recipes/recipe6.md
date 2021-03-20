@@ -13,6 +13,8 @@ The origins of this cocktail are murky, but it was most likely invented in Tokyo
 
 Fun fact: Kamikaze translates to divine wind in Japanese.
 
+![Kamikaze cocktail. Garnished with raspberries.](../uploads/mathilde-langevin-4egf4cp0w7o-unsplash.jpg)
+
 ## Ingredients
 
 * 30ml vodka
