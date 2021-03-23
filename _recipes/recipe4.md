@@ -8,7 +8,7 @@ tags: null
 ---
 The origin of the mojito is credited to Havana, Cuba. This refreshing cocktail is hugely popular and known worldwide due to its delicious and refreshing taste. Despite the drinks huge popularity, it can be a difficult drink to make correctly (and thus to its best). 
 
-![]()
+![A picture of a mojito.](../uploads/mojito.jpg)
 
 Ingredients
 Juice of 1 lime
