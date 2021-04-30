@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Covers: Why are they so important?"
-date: 2021-04-23T13:45:12.270Z
+date: 2021-04-16T13:45:12.270Z
 header_feature_image: https://images.unsplash.com/photo-1481121749114-c5488c93b0d1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80
 title_color: "#ffffff"
 comments: false
