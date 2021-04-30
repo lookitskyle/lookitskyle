@@ -15,3 +15,5 @@ Hello!
 My name is Kyle and, currently, I am a student at Oxford Brookes University. I study English Literature and Publishing Media. Alongside my studies I am also employed by one of the largest coffee shop chains in the United Kingdom! 
 
 This blog has been created as a part of my studies.
+
+All views are my own.
