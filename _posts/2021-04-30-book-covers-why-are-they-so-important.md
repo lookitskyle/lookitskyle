@@ -8,7 +8,7 @@ comments: false
 tags:
   - ""
 ---
-‘Never judge a book by its cover’
+> *‘Never judge a book by its cover’*
 
 We all know and repeat that saying. I often wonder why, since it’s a completely null statement! As idealistic as it would be for us to follow this mantra - it’s simply impossible. Aesthetics inform our choices on most, if not all, of our purchases. Think of it this way, are you going to pick up the plain white bin that looks cheaply made or the steel bin that looks nice and quality-made for your kitchen? Most of us would choose the nicer looking bin.
 
